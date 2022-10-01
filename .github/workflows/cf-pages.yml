@@ -53,7 +53,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: start
-          directory: dist
-          # Direct Upload could not change the production branch
-          branch: main
+          directory: sui2/dist
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
