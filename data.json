@@ -1,0 +1,173 @@
+{
+  "apps" : [
+    {
+      "name": "Home",
+      "items": [
+        {"name":"QNAP","url":"http://harrogath:5000","icon":"server"},
+        {"name":"HomeAssistant","url":"http://harrogath:8123","icon":"home-assistant"},
+        {"name":"Plex","url":"http://harrogath:32400/web/index.html#!/","icon":"plex"},
+        {"name":"Jellyfin","url":"http://harrogath:8096/web/index.html#!/home.html","icon":"jellyfish"},
+        {"name":"Sonarr","url":"http://harrogath:8989/","icon":"television-box"},
+        {"name":"qBittorrent","url":"http://harrogath:8080/","icon":"download-network"},
+        {"name":"Jackett","url":"http://harrogath:9117/UI/Dashboard","icon":"tshirt-crew-outline"},
+        {"name":"Flaresolverr","url":"http://harrogath:8191/","icon":"application-brackets-outline"},
+        {"name":"Nginx","url":"http://harrogath:81/","icon":"arrow-decision"},
+        {"name":"ActivityWatch","url":"http://localhost:5600/#/activity/Maiev.lan/view/","icon":"timetable"}
+      ]
+    },
+    {
+      "name": "Router",
+      "items": [
+        {"name":"ImmortalWrt","url":"http://immortalwrt","icon":"router-network"},
+        {"name":"Clash","url":"http://immortalwrt:9090/ui/dashboard/#/proxies","icon":"cat"}
+      ]
+    },
+    {
+      "name": "Public",
+      "items": [
+        {"name":"Miniflux","url":"https://miniflux.reorx.com","icon":"rss"},
+        {"name":"Umami","url":"https://oishii.reorx.com","icon":"poll"},
+        {"name":"n8n","url":"https://n8n.reorx.com/","icon":"transit-connection-variant"}
+      ]
+    }
+  ],
+  "bookmarks" : [
+    {
+      "category": "Infra",
+      "links": [
+        {
+          "name": "Cloudflare ",
+          "url": "https://dash.cloudflare.com/d2a41c5207e75ba54bbd5a6bdd037c1f"
+        },
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://dash.cloudflare.com/d2a41c5207e75ba54bbd5a6bdd037c1f/pages"
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.app/dashboard"
+        },
+        {
+          "name": "Fly",
+          "url": "https://fly.io/dashboard"
+        },
+        {
+          "name": "Northflank",
+          "url": "https://app.northflank.com/u/reorx"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://app.supabase.com/"
+        }
+      ]
+    },
+    {
+      "category": "Surfing",
+      "links": [
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://youtube.com"
+        },
+        {
+          "name": "Bilibili",
+          "url": "https://blilibili.com"
+        },
+        {
+          "name": "Panda",
+          "url": "https://app.usepanda.com/#/"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://hckrnews.com/"
+        },
+        {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/"
+        }
+      ]
+    },
+    {
+      "category": "Code",
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/"
+        },
+        {
+          "name": "GitHub Code Search",
+          "url": "https://youtube.com"
+        },
+        {
+          "name": "GitHub Commented Issues",
+          "url": "https://github.com/issues?q=is%3Aissue+commenter%3A%40me+sort%3Aupdated-desc"
+        },
+        {
+          "name": "Codepen",
+          "url": "https://codepen.io/pen/"
+        },
+        {
+          "name":  "Webmaker",
+          "url": "https://webmaker.app/app/"
+        }
+      ]
+    },
+    {
+      "category": "Tools",
+      "links": [
+        {
+          "name": "Omatsuri",
+          "url": "https://omatsuri.app/"
+        },
+        {
+          "name": "markdownTables",
+          "url": "https://jmalarcon.github.io/markdowntables/"
+        },
+        {
+          "name": "10FastFingers",
+          "url": "https://10fastfingers.com/typing-test/english"
+        },
+        {
+          "name": "MonkeyType",
+          "url": "https://monkeytype.com/"
+        },
+        {
+          "name": "Keybr",
+          "url": "https://www.keybr.com/"
+        }
+      ]
+    },
+    {
+      "category": "English",
+      "links": [
+        {
+          "name": "Lingohelp",
+          "url": "https://lingohelp.me/"
+        },
+        {
+          "name": "Netspeak",
+          "url": "https://netspeak.org/"
+        },
+        {
+          "name": "Linggle",
+          "url": "https://linggle.com/"
+        },
+        {
+          "name": "Ludwig.guru",
+          "url": "https://ludwig.guru/"
+        },
+        {
+          "name": "Enpuz",
+          "url": "http://enpuz.com/"
+        },
+        {
+          "name": "Typely",
+          "url": "https://editor.typely.com/"
+        }
+      ]
+    }
+  ]
+}
