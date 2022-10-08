@@ -46,6 +46,9 @@ jobs:
       - run: npm run build
         env:
           DATA_FILENAME: ../data.json
+          WEBMANIFEST_NAME: Reorx's Startpage
+          WEBMANIFEST_SHORT_NAME: reorx-startpage
+          WEBMANIFEST_DESCRIPTION: A startpage for Reorx's self-hosting services and commonly used websites.
 
       - name: Publish
         uses: cloudflare/pages-action@1
