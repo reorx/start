@@ -1,4 +1,3 @@
 pushd sui2
-DATA_FILENAME=../data.json npm run build
+DATA_FILE=../data.json npm run build
 popd
-
