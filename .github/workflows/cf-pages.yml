@@ -45,7 +45,7 @@ jobs:
       - run: npm i
       - run: npm run build
         env:
-          DATA_FILENAME: ../data.json
+          DATA_FILE: ../data.json
           WEBMANIFEST_NAME: Reorx's Startpage
           WEBMANIFEST_SHORT_NAME: reorx-startpage
           WEBMANIFEST_DESCRIPTION: A startpage for Reorx's self-hosting services and commonly used websites.
