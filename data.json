@@ -34,7 +34,7 @@
   ],
   "bookmarks" : [
     {
-      "category": "Infra",
+      "category": "Admin",
       "links": [
         {
           "name": "Cloudflare ",
@@ -53,12 +53,66 @@
           "url": "https://fly.io/dashboard"
         },
         {
-          "name": "Northflank",
-          "url": "https://app.northflank.com/u/reorx/projects"
-        },
-        {
           "name": "Supabase",
           "url": "https://app.supabase.com/"
+        },
+        {
+          "name": "Chrome Developer Dashboard",
+          "url": "https://chrome.google.com/webstore/devconsole/7a05e62f-e6f2-4062-85b8-df4e0c212563"
+        }
+      ]
+    },
+    {
+      "category": "English",
+      "links": [
+        {
+          "name": "DeepL Translate",
+          "url": "https://www.deepl.com/en/translator"
+        },
+        {
+          "name": "DeepL Write",
+          "url": "https://www.deepl.com/write"
+        },
+        {
+          "name": "Lingohelp",
+          "url": "https://lingohelp.me/"
+        },
+        {
+          "name": "Netspeak",
+          "url": "https://netspeak.org/"
+        },
+        {
+          "name": "Linggle",
+          "url": "https://linggle.com/"
+        },
+        {
+          "name": "Ludwig.guru",
+          "url": "https://ludwig.guru/"
+        },
+        {
+          "name": "Enpuz",
+          "url": "http://enpuz.com/"
+        },
+        {
+          "name": "Typely",
+          "url": "https://editor.typely.com/"
+        }
+      ]
+    },
+    {
+      "category": "AI",
+      "links": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com/"
+        },
+        {
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/"
+        },
+        {
+          "name": "Phind",
+          "url": "https://phind.com/"
         }
       ]
     },
@@ -95,12 +149,8 @@
       "category": "Code",
       "links": [
         {
-          "name": "GitHub",
-          "url": "https://github.com/"
-        },
-        {
           "name": "GitHub Code Search",
-          "url": "https://youtube.com"
+          "url": "https://cs.github.com/"
         },
         {
           "name": "GitHub Commented Issues",
@@ -109,6 +159,10 @@
         {
           "name": "Codepen",
           "url": "https://codepen.io/pen/"
+        },
+        {
+          "name": "CodeSandBox",
+          "url": "https://codesandbox.io/"
         },
         {
           "name":  "Webmaker",
@@ -138,35 +192,6 @@
         {
           "name": "Keybr",
           "url": "https://www.keybr.com/"
-        }
-      ]
-    },
-    {
-      "category": "English",
-      "links": [
-        {
-          "name": "Lingohelp",
-          "url": "https://lingohelp.me/"
-        },
-        {
-          "name": "Netspeak",
-          "url": "https://netspeak.org/"
-        },
-        {
-          "name": "Linggle",
-          "url": "https://linggle.com/"
-        },
-        {
-          "name": "Ludwig.guru",
-          "url": "https://ludwig.guru/"
-        },
-        {
-          "name": "Enpuz",
-          "url": "http://enpuz.com/"
-        },
-        {
-          "name": "Typely",
-          "url": "https://editor.typely.com/"
         }
       ]
     }
