@@ -107,6 +107,14 @@
           "url": "https://chat.openai.com/"
         },
         {
+          "name": "Awesome ChatGPT Prompts",
+          "url": "https://github.com/f/awesome-chatgpt-prompts"
+        },
+        {
+          "name": "OpenAI API",
+          "url": "https://platform.openai.com/"
+        },
+        {
           "name": "Perplexity",
           "url": "https://www.perplexity.ai/"
         },
