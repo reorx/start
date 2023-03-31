@@ -8,7 +8,7 @@
         {"name":"Plex","url":"http://harrogath:32400/web/index.html#!/","icon":"plex"},
         {"name":"Jellyfin","url":"http://harrogath:8096/web/index.html#!/home.html","icon":"jellyfish"},
         {"name":"Sonarr","url":"http://harrogath:8989/","icon":"television-box"},
-        {"name":"NASTools","url":"http://harrogath:3003/","icon":"nas"},
+        {"name":"Radarr","url":"http://harrogath:7878/","icon":"movie-open-play"},
         {"name":"qBittorrent","url":"http://harrogath:8080/","icon":"download-network"},
         {"name":"Jackett","url":"http://harrogath:9117/UI/Dashboard","icon":"tshirt-crew-outline"},
         {"name":"Flaresolverr","url":"http://harrogath:8191/","icon":"application-brackets-outline"},
